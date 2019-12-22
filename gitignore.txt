@@ -1,4 +1,0 @@
-Ex_Files_Tensorflow
-*.pdf
-*.doc
-.ipynb_checkpoints
