@@ -1,4 +1,4 @@
-Predicting earnings for new games using Tensorflow Neural Networks
+Predicting earnings for new games using neural network built using tensorflow
 
 
 ### Contents
